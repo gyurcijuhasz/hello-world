@@ -1,1 +1,1 @@
-# hello-world, az én nevem Gyurci
+# hello-world
